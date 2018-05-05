@@ -13,4 +13,8 @@ github对我来说是一次机会。
 ##### 很多人参与，并且有不少有影响力的组织和个人
 
 #### vs code
+编辑器，在经历nedit，emacs之后，最后停在了vim上。但是vim是比较纯粹到编辑器。
+在ide方面，也尝试使用eclipse，atom。不过在很多人对microsoft到vs code评价相当高之后，准备停在vs code
+没有特别到原因，就一直留恋这个ide了。
+可能见识比较少，这个ide的markdown 和 git功能还是比较好用的。
 
