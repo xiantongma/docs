@@ -51,7 +51,9 @@ ssh -T git@github.com
 ```
 ## 参考
 https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/
+
 https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/
+
 https://help.github.com/articles/testing-your-ssh-connection/
 
 ## 小结
